@@ -1,12 +1,12 @@
 # Blinkit Sales & Outlet Performance Analysis | Power BI
 
-## 📊 Project Overview
+##  Project Overview
 
 This project is an interactive Power BI dashboard created to analyze Blinkit's sales performance, outlet characteristics, item categories, and customer ratings.
 
 The dashboard allows users to explore sales based on outlet location, outlet size, item type, fat content, and outlet establishment year.
 
-## 🎯 Project Objectives
+##  Project Objectives
 
 - Analyze overall sales performance
 - Compare sales across different outlet types
@@ -16,7 +16,7 @@ The dashboard allows users to explore sales based on outlet location, outlet siz
 - Examine customer ratings
 - Create an interactive business dashboard
 
-## 🛠️ Tools & Technologies
+##  Tools & Technologies
 
 - Power BI
 - Power Query
@@ -25,7 +25,7 @@ The dashboard allows users to explore sales based on outlet location, outlet siz
 - Data Visualization
 - Data Analysis
 
-## 📌 Key Metrics
+##  Key Metrics
 
 - Total Sales
 - Average Sales
@@ -37,11 +37,11 @@ The dashboard allows users to explore sales based on outlet location, outlet siz
 - Sales by Item Type
 - Fat Content Analysis
 
-## 📷 Dashboard Preview
+## Dashboard Preview
 
 ![Blinkit Sales Dashboard](screenshots/dashboard.png)
 
-## 🔍 Dashboard Features
+##  Dashboard Features
 
 The dashboard includes:
 
@@ -54,7 +54,7 @@ The dashboard includes:
 - Item type analysis
 - Outlet performance table
 
-## 💡 Key Insights
+## Key Insights
 
 The dashboard helps identify:
 
@@ -65,7 +65,7 @@ The dashboard helps identify:
 - Distribution of low-fat and regular products
 - Differences in outlet performance
 
-## 📁 Project Structure
+## Project Structure
 
 ```text
 Blinkit-Sales-Analysis-PowerBI/
