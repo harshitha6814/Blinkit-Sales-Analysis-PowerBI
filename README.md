@@ -39,7 +39,7 @@ The dashboard allows users to explore sales based on outlet location, outlet siz
 
 ## Dashboard Preview
 
-![Blinkit Sales Dashboard](screenshots/dashboard.png)
+![Blinkit Sales Dashboard](dashboard.png)
 
 ##  Dashboard Features
 
